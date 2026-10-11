@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289084738204",
+    "project_id": "breezy-blush-booking",
+    "storage_bucket": "breezy-blush-booking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289084738204:android:e95a40b939ba58f8893b59",
+        "android_client_info": {
+          "package_name": "com.example.breezy_blush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgLnK8X7cuQzVV0_liN__pmDxJ7usmVVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
